@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, 'Nimbus Roman No9 L', 'Century Schoolbook L', serif;
+    font-size: 20px;
+    line-height: 1.45;
+    color: darkgrey;
+    background: #232323 !important;
+}
+a, a:visited, a:active {
+    text-decoration: none;
+    color: #5da1c3;
+}
+.cm-s-default .cm-keyword, .sandbox-output-null, .sandbox-output-fun {
+    color: #7bf9ff;
+}
+.cm-s-default .cm-def {
+    color: #e4d761;
+}
+.cm-s-default .cm-variable-2, .cm-s-default .cm-attribute {
+    color: #88c16b;
+}
+.cm-s-default .cm-number, .sandbox-output-number {
+    color: #f39e6c;
+}
